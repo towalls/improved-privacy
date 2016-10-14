@@ -1,5 +1,5 @@
 {
-  "name": "heroku-is-cool",
+  "name": "privacy-is-cool",
   "version": "0.9.10",
   "dependencies": {
     "minimist": "^1.2.0",
